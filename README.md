@@ -14,6 +14,6 @@ Build a full stack JavaScript app that is functionally similar to https://little
 
 ## Result
 
-You can view the live version the app on: https://ajibs-url-shortener.herokuapp.com/
+You can view the live version of the app on: https://ajibs-url-shortener.herokuapp.com/
 
 
